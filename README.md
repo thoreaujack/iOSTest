@@ -2,7 +2,6 @@
 ##设计模式
 1.MVC
 ###流程图
-```flow
 st=>start: Start
 e=>end
 op=>operation: My Operation
